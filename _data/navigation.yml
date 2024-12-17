@@ -12,16 +12,17 @@ main:
     url: /talks/    
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/   
+
+  - title: "Academic Service"
+    url: /academic service/   
     
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Funding & Grants"
+    url: /funding grants/
     
+  - title: "Horners"
+    url: /funding prizes/
+
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
